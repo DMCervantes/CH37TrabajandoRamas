@@ -1,5 +1,5 @@
 # CH37 Trabajando con Ramas
-## Ejercicio para trabajar con ramas en Git/Githob
+## Ejercicio para trabajar con ramas en Git/Github
 
 Este ejercicio tendrá las siguientes ramas:
 Ramas:
